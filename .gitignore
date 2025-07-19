@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.pkl
+*.env
+
+# VSCode
+.vscode/
+
+# Streamlit logs
+.streamlit/
+
+# Environment files
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+*.log
